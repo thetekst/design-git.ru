@@ -1,0 +1,5 @@
+#Charset
+AddDefaultCharset utf-8
+
+#Rewrite engine
+RewriteEngine On
