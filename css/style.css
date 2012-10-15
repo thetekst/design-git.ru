@@ -1,13 +1,9 @@
 /* CSS Document */
 
 .-------------------- {}
-/* border-radius.htc */
-.border-radius-5px {
-	-webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	-khtml-border-radius: 5px;	
-	border-radius: 5px;	
-	behavior: url(border-radius.htc);
+/* border-radius */
+.border-radius {
+	
 }
 /* end */
 .-------------------- {}
